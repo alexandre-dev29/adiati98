@@ -1,6 +1,6 @@
 ### Helloww 👋
 
-:raising_hand: I'm Ayu, an Indonesian based in The Netherlands. I am a stay home mom who happily get my feet wet in programming world.
+<br>:raising_hand: I'm Ayu, an Indonesian based in The Netherlands. I am a stay home mom who happily get my feet wet in programming world.
 
 <br>🌱 I’m currently enrolling in **Flavio Javascript Fullstack Online Bootcamp**.
 
