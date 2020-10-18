@@ -4,7 +4,7 @@
 
 <br>:raising_hand: I'm Ayu, an Indonesian based in The Netherlands. I am a stay home mom who happily get my feet wet in programming world.
 
-<br>🌱 I’m currently enrolling in **Scrimba: The Frontend Developer Career Path** & **Flavio Javascript Fullstack Online Bootcamp**.
+<br>🌱 I’m currently enrolling in **Scrimba: The Frontend Developer Career Path** (September 2020) & **Flavio Javascript Fullstack Online Bootcamp** (July 2020).
 
 <br>:sparkles: I would having my DSLR :camera: on my hands, chewing :sushi: or watching movie when I'm not coding or chasing my :girl: or doing :house: chores.
 
