@@ -1,10 +1,11 @@
 ## Helloww 👋
 
+
 ---
 
 <br>:raising_hand: I'm Ayu, an Indonesian based in The Netherlands. I am a stay home mom who happily get my feet wet in programming world.
 
-<br>🌱 I’m currently enrolling in **Scrimba: The Frontend Developer Career Path** (September 2020).
+<br>🌱 I’m currently enrolling in **Scrimba: The Frontend Developer Career Path**.
 
 <br>:sparkles: I would having my DSLR :camera: on my hands, chewing :sushi: or watching movie when I'm not coding or chasing my :girl: or doing :house: chores.
 
@@ -23,6 +24,6 @@
 > Whether is about people, life or about yourself, there is only going forward from it.
 
 ---
+![Twitter Follow](https://img.shields.io/twitter/follow/AdiatiAyu?color=%23FF7308&label=Let%27s%20connect%20on%20Twitter%21%20&style=for-the-badge)
 
-<br> :mailbox: You can find me at my [Twitter](https://twitter.com/adiatiayu) handler, tweeting about my learning journey.
 
