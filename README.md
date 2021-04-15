@@ -18,7 +18,7 @@
 > Whether is about people, life or about yourself, there is only going forward from it.
 <br><em>- JmStorm -</em>
 
-<br>
-![Twitter Follow](https://img.shields.io/twitter/follow/AdiatiAyu?color=%23FF7308&label=Let%27s%20connect%20on%20Twitter%21%20&style=for-the-badge)
+
+<br>![Twitter Follow](https://img.shields.io/twitter/follow/AdiatiAyu?color=%23FF7308&label=Let%27s%20connect%20on%20Twitter%21%20&style=for-the-badge)
 
 
