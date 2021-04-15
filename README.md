@@ -49,7 +49,7 @@
 
 ---
 
-## Let's Connect!
+## 🤝Let's Connect!
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/AdiatiAyu?color=%23FF7308&label=Let%27s%20connect%20on%20Twitter%21%20&style=for-the-badge)
 
