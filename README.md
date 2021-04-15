@@ -6,7 +6,15 @@
 <br>🌱 I’m currently enrolling in **Scrimba: The Frontend Developer Career Path**.
 <br> ✍ You can find me learning in public on my [Blog](https://adiati.com/), and let's connect via [Hashnode](https://hashnode.com/@ayuadiati), [DEV](https://dev.to/adiatiayu) or [CodeNewbie](https://community.codenewbie.org/adiatiayu)!
 
-⚡ **Fun fact**
+<br>📰 Latest Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog articles](https://adiati.com)
+
+
+<br>⚡ **Fun fact**
 <br>🗣: I speak 4 languages - Indonesian, English, Dutch and Japanese.
 <br>:sparkles: I would having my ***DSLR camera*** on my hands, chewing ***sushi*** or watching ***movie*** when I'm not coding or chasing my daughter or doing house chores.
 <br>☕: I always enjoy my **ICE** Machiatto Latte, whether it's summer or winter!
