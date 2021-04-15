@@ -1,6 +1,6 @@
-# Helloww <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+# Helloww... I'm Ayu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-<br>:raising_hand: I'm Ayu, an Indonesian based in The Netherlands. I am a stay home mom who happily get my feet wet in programming world.
+<br>:raising_hand: I am a stay home mom based in The Netherlands who happily get my feet wet in programming world.
 
 ## About Me
 <br>🌱 I’m currently enrolling in **Scrimba: The Frontend Developer Career Path**.
