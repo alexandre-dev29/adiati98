@@ -13,13 +13,11 @@
 <br>:sparkling_heart: I always consider *learning* as one of my hobby. Getting my brain to work to solve problems makes me feel alive and coming out with solution could make me do my happy feet :penguin:
 <br>When I don't get solution yet? Refer back to :green_heart::point_up_2:
 
-***
 ❤ My favorite quote:
 > Knowledge changes you and so often you can't go back.
 > Whether is about people, life or about yourself, there is only going forward from it.
 <br><em>- JmStorm -</em>
 
----
 ![Twitter Follow](https://img.shields.io/twitter/follow/AdiatiAyu?color=%23FF7308&label=Let%27s%20connect%20on%20Twitter%21%20&style=for-the-badge)
 
 
