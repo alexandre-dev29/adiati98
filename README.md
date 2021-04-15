@@ -6,7 +6,7 @@
 <br>🌱 I’m currently enrolling in **Scrimba: The Frontend Developer Career Path**.
 <br> ✍ You can find me learning in public on my [Blog](https://adiati.com/), and let's connect via [Hashnode](https://hashnode.com/@ayuadiati), [DEV](https://dev.to/adiatiayu) or [CodeNewbie](https://community.codenewbie.org/adiatiayu)!
 
-<br>📰 Latest Blog Articles
+<br>📰 **Latest Blog Articles**
 
 <!-- BLOG-POST-LIST:START -->
 - `2021-04-06` | [Vite With React Template](https://adiati.com/vite-with-react-template)  
