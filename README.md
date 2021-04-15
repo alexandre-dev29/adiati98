@@ -7,8 +7,7 @@
 <br>🌱 I’m currently enrolling in **Scrimba: The Frontend Developer Career Path**.
 <br>:sparkles: I would having my DSLR :camera: on my hands, chewing :sushi: or watching movie when I'm not 👩‍💻 or chasing my :girl: or doing :house: chores.
 
-<br>⚡ Fun fact: 
-
+<br>⚡ **Fun fact**: 
 <br>🗣: I speak 4 languages - Indonesian, English, Dutch and Japanese.
 <br>:green_heart: I always enjoy my **COLD** Machiatto Latte :coffee:!
 <br>:sparkling_heart: I always consider *learning* as one of my hobby. Getting my brain to work to solve problems makes me feel alive and coming out with solution could make me do my happy feet :penguin:
