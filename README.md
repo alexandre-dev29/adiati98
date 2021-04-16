@@ -21,11 +21,11 @@
 
 
 <br>⚡ **Fun fact**
-<br>🗣: I speak 4 languages - Indonesian, English, Dutch and Japanese.
+<br>🗣 I speak 4 languages - Indonesian, English, Dutch and Japanese.
 <br>:sparkles: I would having my ***DSLR camera*** on my hands, chewing ***sushi*** or watching ***movie*** when I'm not coding or chasing my daughter or doing house chores.
-<br>☕: I always enjoy my **ICE** Machiatto Latte, whether it's summer or winter!
-<br>📚 I always consider *learning* as one of my hobby. Getting my brain to work to solve problems makes me feel alive and coming out with solution could make me do my happy feet :penguin:
-<br>When I don't get solution yet? Refer back to ☕:point_up_2:
+<br>☕ I always enjoy my **ICE** Machiatto Latte, whether it's summer or winter!
+<br>📚 I consider *learning* as one of my hobby. Getting my brain to work to solve problems makes me feel alive and coming out with solution could make me do my happy feet :penguin:
+<br>When I don't get solution yet? Refer back to ☕
 
 ❤ My favorite quote:
 > Knowledge changes you and so often you can't go back.
@@ -34,7 +34,7 @@
 
 ---
 
-## 🧰 Tools
+## :hammer: Tools
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="Yarn icon" width="50" height="50">
 
