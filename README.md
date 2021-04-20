@@ -9,11 +9,11 @@
 <br>📰 **Latest Blog Articles**
 
 <!-- BLOG-POST-LIST:START -->
+- `2021-04-20` | [The Reasons Why I Blog (And You Should Too)](https://adiati.com/the-reasons-why-i-blog-and-you-should-too)  
 - `2021-04-19` | [Stand Out by Building Personal Brand](https://adiati.com/stand-out-by-building-personal-brand)  
 - `2021-04-06` | [Vite With React Template](https://adiati.com/vite-with-react-template)  
 - `2021-03-20` | [10+ Free And Affordable Resources To Learn Frontend Web Development](https://adiati.com/10-free-and-affordable-resources-to-learn-frontend-web-development)  
 - `2021-03-13` | [10 Tips For New Self-Taught Developers In Learning To Code](https://adiati.com/10-tips-for-new-self-taught-developers-in-learning-to-code)  
-- `2021-03-02` | [#ChooseToChallenge: Stop Underrating Stay-At-Home Moms!](https://adiati.com/choosetochallenge-stop-underrating-stay-at-home-moms)  
 
 <!-- BLOG-POST-LIST:END -->
 
