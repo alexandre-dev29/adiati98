@@ -51,6 +51,8 @@
 
 ## 🤝Let's Connect!
 
-![Twitter Follow](https://img.shields.io/twitter/follow/AdiatiAyu?color=%23FF7308&label=Let%27s%20connect%20on%20Twitter%21%20&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/AdiatiAyu?color=%23FF7308&label=Let%27s%20connect%20on%20Twitter%21%20&style=for-the-badge) <a href="https://dev.to/adiatiayu">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ayu Adiati's DEV Community Profile" height="40" width="40">
+</a>
 
 
