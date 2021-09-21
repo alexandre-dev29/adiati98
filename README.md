@@ -9,7 +9,7 @@
 <br>📰 **Latest Blog Articles**
 
 <!-- BLOG-POST-LIST:START -->
-- `2021-09-20` | [Contributing Ethics In Open-Source](https://adiati.com/contributing-ethics-in-open-source)  
+- `2021-09-20` | [Why Ethics In Contributing To Open-Source Matters](https://adiati.com/why-ethics-in-contributing-to-open-source-matters)  
 - `2021-09-15` | [Building Habits To Be Healthier Developers](https://adiati.com/building-habits-to-be-healthier-developers)  
 - `2021-08-10` | [A Letter For You, Future Me.](https://adiati.com/a-letter-for-you-future-me)  
 - `2021-08-03` | [Project Collaboration And Pair Programming](https://adiati.com/project-collaboration-and-pair-programming)  
