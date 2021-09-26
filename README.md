@@ -9,11 +9,11 @@
 <br>📰 **Latest Blog Articles**
 
 <!-- BLOG-POST-LIST:START -->
+- `2021-09-26` | [How To Make Changes On A Commit In A Pull Request Directly On GitHub's Website](https://adiati.com/how-to-make-changes-on-a-commit-in-a-pull-request-directly-on-githubs-website)  
 - `2021-09-20` | [Why Ethics In Contributing To Open-Source Matters](https://adiati.com/why-ethics-in-contributing-to-open-source-matters)  
 - `2021-09-15` | [Building Habits To Be Healthier Developers](https://adiati.com/building-habits-to-be-healthier-developers)  
 - `2021-08-10` | [A Letter For You, Future Me.](https://adiati.com/a-letter-for-you-future-me)  
 - `2021-08-03` | [Project Collaboration And Pair Programming](https://adiati.com/project-collaboration-and-pair-programming)  
-- `2021-06-07` | [Lesson Learned: Massive Burnout In Learning Web Development](https://adiati.com/lesson-learned-massive-burnout-in-learning-web-development)  
 
 <!-- BLOG-POST-LIST:END -->
 
