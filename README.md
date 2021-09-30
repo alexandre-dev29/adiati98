@@ -3,7 +3,7 @@
 <br>:raising_hand: I am a stay home mom based in The Netherlands who happily get my feet wet in programming world.
 
 ## About Me
-<br>🌱 I’m currently a cohort in  **The Collab Lab - TCL 35**.
+<br>🌱 I’m currently a cohort in  **[The Collab Lab](https://the-collab-lab.codes/) - TCL 35**.
 <br> ✍ You can find me learning in public on my [Blog](https://adiati.com/), and let's connect via [Hashnode](https://hashnode.com/@ayuadiati), [DEV](https://dev.to/adiatiayu) or [CodeNewbie](https://community.codenewbie.org/adiatiayu)!
 
 <br>📰 **Latest Blog Articles**
