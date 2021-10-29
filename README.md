@@ -9,11 +9,11 @@
 <br>📰 **Latest Blog Articles**
 
 <!-- BLOG-POST-LIST:START -->
+- `2021-10-29` | [Contributing To Open-Source 101](https://adiati.com/contributing-to-open-source-101)  
 - `2021-10-12` | [First Week of The Hacktoberfest: 8 Top Questions Around Git](https://adiati.com/first-week-of-the-hacktoberfest-8-top-questions-around-git)  
 - `2021-09-29` | [Hashnode Bootcamp IV: Personal Thoughts And Experience](https://adiati.com/hashnode-bootcamp-iv-personal-thoughts-and-experience)  
 - `2021-09-28` | [I Have Been Writing A Blog For 10 Months: Here Is My Story](https://adiati.com/i-have-been-writing-a-blog-for-10-months-here-is-my-story)  
 - `2021-09-26` | [How To Make Changes On A Commit In A Pull Request Directly On GitHub's Website](https://adiati.com/how-to-make-changes-on-a-commit-in-a-pull-request-directly-on-githubs-website)  
-- `2021-09-20` | [Why Ethics In Contributing To Open-Source Matters](https://adiati.com/why-ethics-in-contributing-to-open-source-matters)  
 
 <!-- BLOG-POST-LIST:END -->
 
