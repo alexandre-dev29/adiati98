@@ -9,8 +9,6 @@
 
 <br>🌱 She's currently learning React while brushing Javascript ES6 and above at the moment. She is also learning Firebase during The Collab Lab program.
 
-<br> 🔎 You can find her on [Twitter](https://twitter.com/AdiatiAyu), [Polywork](https://www.polywork.com/adiatiayu), [Hashnode](https://hashnode.com/@ayuadiati), [DEV](https://dev.to/adiatiayu) or [CodeNewbie](https://community.codenewbie.org/adiatiayu).
-
 <br> ✍ She is learning in public through her [Notes On Blog](https://adiati.com/).
 
 ### 📰 Ayu's Latest Blog Posts
