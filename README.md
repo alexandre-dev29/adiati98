@@ -1,12 +1,19 @@
-# Helloww... I'm Ayu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+# Welcome To Ayu's GitHub Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-<br>:raising_hand: I am a stay home mom based in The Netherlands who happily get my feet wet in programming world.
+## :woman: About Ayu
+<br>:raising_hand: She is a frontend developer & technical blogger based in The Netherlands.
 
-## About Me
-<br>🌱 I’m currently a cohort in  **[The Collab Lab](https://the-collab-lab.codes/) - TCL 35**.
-<br> ✍ You can find me learning in public on my [Blog](https://adiati.com/), and let's connect via [Hashnode](https://hashnode.com/@ayuadiati), [DEV](https://dev.to/adiatiayu) or [CodeNewbie](https://community.codenewbie.org/adiatiayu)!
+<br>:car: Along her journey, she gets passionate about communities, accessibilty, open-source, and (technical) writing.
 
-<br>📰 **Latest Blog Articles**
+<br>:star: She's currently a cohort in  [The Collab Lab](https://the-collab-lab.codes/who-we-are/) (TCL 35 | October – November 2021).
+
+<br>🌱 She's currently learning React while brushing Javascript ES6 and above at the moment. She is also learning Firebase during The Collab Lab program.
+
+<br> 🔎 You can find her on [Twitter](https://twitter.com/AdiatiAyu), [Polywork](https://www.polywork.com/adiatiayu), [Hashnode](https://hashnode.com/@ayuadiati), [DEV](https://dev.to/adiatiayu) or [CodeNewbie](https://community.codenewbie.org/adiatiayu).
+
+<br> ✍ She is learning in public through her [Notes On Blog](https://adiati.com/).
+
+### 📰 Ayu's Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - `2021-11-02` | [What I Learned From Hacktoberfest 2021](https://adiati.com/what-i-learned-from-hacktoberfest-2021)  
@@ -20,39 +27,72 @@
 ▶ [...more blog articles](https://adiati.com)
 
 
-<br>⚡ **Fun fact**
-<br>🗣 I speak 4 languages - Indonesian, English, Dutch and Japanese.
-<br>:sparkles: I would having my ***DSLR camera*** on my hands, chewing ***sushi*** or watching ***movie*** when I'm not coding or chasing my daughter or doing house chores.
-<br>☕ I always enjoy my **ICE** Machiatto Latte, whether it's summer or winter!
-<br>📚 I consider *learning* as one of my hobby. Getting my brain to work to solve problems makes me feel alive and coming out with solution could make me do my happy feet :penguin:
-<br>When I don't get solution yet? Refer back to ☕
+<br>
 
-❤ My favorite quote at the moment:
+### ⚡ Fun Fact About Ayu
+<br>🗣 She speaks 4 languages - Indonesian, English, Dutch and Japanese.
+
+<br>:sparkles: When she's not coding, she would cuddling with her daugther, or having her DSLR camera on her hands, or watching movie.
+
+<br>☕ She enjoys her **ICED** Machiatto Latte, whether it's summer or winter!
+
+<br>📚 She is a life-long learner. Finding ways to solve problems makes her excited, and coming out with solution could make her do happy feet :penguin:
+
+<br>
+
+### ❤ Ayu's favorite quote at the moment:
 > Knowledge changes you and so often you can't go back.
 > Whether is about people, life or about yourself, there is only going forward from it.
 <br><em>- JmStorm -</em>
 
+<br>
+
 ---
 
-## :hammer: Tools
+<br>
+
+## :bar_chart: Ayu's GitHub Stats
+
+![Ayu's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=adiati98&count_private=true&theme=tokyonight&showicons=true)
+
+<br>
+
+---
+
+<br>
+
+## :hammer: Ayu's Tools
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="Yarn icon" width="50" height="50">
 
-### Currently Learning:
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React icon" width="50" height="50"> 
+<br>
 
-### Have Basic Knowledge of:
+### Currently Learning:
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase icon" width="50" height="50"> 
+
+<br>
+
+### Has Basic Knowledge of:
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS icon" width="70" height="70"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB icon" width="50" height="50"> 
 
-### In The Bucket List:
+<br>
+
+### In Her Bucket List:
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/eleventy/eleventy-original.svg" alt="Eleventy icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgresQL icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass icon" width="50" height="50"> 
+
+<br>
 
 ---
 
-## 🤝Let's Connect!
+<br>
+
+## 🤩 New Friends Are Welcome!
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/AdiatiAyu?color=%23FF7308&label=Let%27s%20connect%20on%20Twitter%21%20&style=for-the-badge) <a href="https://dev.to/adiatiayu">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ayu Adiati's DEV Community Profile" height="40" width="40">
-</a>
+![Polywork Follow](https://img.shields.io/badge/Let's%20connect%20on-POLYWORK-582be8?style=for-the-badge)<a href="https://www.polywork.com/adiatiayu">
+  
+![DEV Follow](https://img.shields.io/badge/Let's%20connect%20on-DEV-000?style=for-the-badge)<a href="https://dev.to/adiatiayu">
+![CodeNewbie Follow](https://img.shields.io/badge/Let's%20connect%20on-CODENEWBIE-6bd80b?style=for-the-badge)<a href="https://community.codenewbie.org/adiatiayu">
+![Hashnode Follow](https://img.shields.io/badge/Let's%20connect%20on-HASHNODE-2962ff?style=for-the-badge)<a href="https://hashnode.com/@ayuadiati">
 
 
