@@ -3,7 +3,7 @@
 ## :woman: About Ayu
 <br>:raising_hand: She is a frontend developer & technical blogger based in The Netherlands.
 
-<br>:car: Along her journey, she gets passionate about communities, accessibilty, open-source, and (technical) writing.
+<br>:car: Along her journey, she gets passionate about communities, accessibility, open-source, and (technical) writing.
 
 <br>:star: She's currently a cohort in  [The Collab Lab](https://the-collab-lab.codes/who-we-are/) (TCL 35 | October – November 2021).
 
@@ -40,12 +40,15 @@
 
 <br>
 
-### ❤ Ayu's favorite quote at the moment:
+### ❤ Ayu's favorite quote:
 > Knowledge changes you and so often you can't go back.
 > Whether is about people, life or about yourself, there is only going forward from it.
 <br><em>- JmStorm -</em>
 
 <br>
+
+### :fire: Ayu's favorite GIF at the moment:
+![let's go! gif](https://media.giphy.com/media/4GXUa4U05Q0JAM972c/giphy.gif)
 
 ---
 
