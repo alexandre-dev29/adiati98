@@ -9,6 +9,8 @@
 
 <br>🌱 She's learning React while brushing Javascript ES6 and above at the moment. She is also learning Firebase during The Collab Lab program.
 
+<br>:pushpin: She's an active member of [Virtual Coffee](https://virtualcoffee.io/members/), [The Collab Lab](https://the-collab-lab.codes/who-we-are/), [CodeNewbie](https://community.codenewbie.org/adiatiayu), [DEV](https://dev.to/adiatiayu), and [Hashnode](https://hashnode.com/@ayuadiati) communities.
+
 <br> ✍ She is learning in public through her [Notes On Blog](https://adiati.com/).
 
 ### 📰 Ayu's Latest Blog Posts
