@@ -7,7 +7,7 @@
 
 <br>:star: She's currently a cohort in  [The Collab Lab](https://the-collab-lab.codes/who-we-are/) (TCL 35 | October – November 2021).
 
-<br>🌱 She's currently learning React while brushing Javascript ES6 and above at the moment. She is also learning Firebase during The Collab Lab program.
+<br>🌱 She's learning React while brushing Javascript ES6 and above at the moment. She is also learning Firebase during The Collab Lab program.
 
 <br> ✍ She is learning in public through her [Notes On Blog](https://adiati.com/).
 
