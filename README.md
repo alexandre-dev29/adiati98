@@ -86,11 +86,11 @@
 
 ## 🤩 New Friends Are Welcome!
 
-<a href="https://twitter.com/AdiatiAyu">![Twitter Follow](https://img.shields.io/badge/Let's%20connect%20on-TWITTER-4495d4?style=for-the-badge) 
-<a href="https://www.polywork.com/adiatiayu">![Polywork Follow](https://img.shields.io/badge/Let's%20connect%20on-POLYWORK-582be8?style=for-the-badge)
+<a href="https://twitter.com/AdiatiAyu">![Twitter Follow](https://img.shields.io/badge/Let's%20connect%20on-TWITTER-4495d4?style=for-the-badge&logo=twitter) 
+<a href="https://www.polywork.com/adiatiayu">![Polywork Follow](https://img.shields.io/badge/Let's%20connect%20on-POLYWORK-582be8?style=for-the-badge&logo=polywork)
   
-<a href="https://dev.to/adiatiayu">![DEV Follow](https://img.shields.io/badge/Let's%20connect%20on-DEV-000?style=for-the-badge)
-<a href="https://community.codenewbie.org/adiatiayu">![CodeNewbie Follow](https://img.shields.io/badge/Let's%20connect%20on-CODENEWBIE-6bd80b?style=for-the-badge)
-<a href="https://hashnode.com/@ayuadiati">![Hashnode Follow](https://img.shields.io/badge/Let's%20connect%20on-HASHNODE-2962ff?style=for-the-badge)
+<a href="https://dev.to/adiatiayu">![DEV Follow](https://img.shields.io/badge/Let's%20connect%20on-DEV-000?style=for-the-badge&logo=devdotto)
+<a href="https://community.codenewbie.org/adiatiayu">![CodeNewbie Follow](https://img.shields.io/badge/Let's%20connect%20on-CODENEWBIE-6bd80b?style=for-the-badge&logo=codenewbie)
+<a href="https://hashnode.com/@ayuadiati">![Hashnode Follow](https://img.shields.io/badge/Let's%20connect%20on-HASHNODE-2962ff?style=for-the-badge&logo=hashnode)
 
 
