@@ -3,6 +3,8 @@
 ## :woman: About Ayu
 <br>:raising_hand: She is a frontend developer & technical blogger based in The Netherlands.
 
+<br>📚 Her stack is HTML, CSS, and Javascript. Scroll down to **Ayu's Tools** section to see more. 
+
 <br>:car: Along her journey, she gets passionate about communities, accessibility, open-source, and (technical) writing.
 
 <br>:star: She's currently a cohort in  [The Collab Lab](https://the-collab-lab.codes/who-we-are/) (TCL 35 | October – November 2021).
@@ -36,7 +38,7 @@
 
 <br>☕ She enjoys her **ICED** Machiatto Latte, whether it's summer or winter!
 
-<br>📚 She is a life-long learner. Finding ways to solve problems makes her excited, and coming out with solution could make her do happy feet :penguin:
+<br>🤓 She is a life-long learner. Finding ways to solve problems makes her excited, and coming out with solution could make her do happy feet :penguin:
 
 <br>
 
