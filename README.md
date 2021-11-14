@@ -42,10 +42,11 @@
 
 <br>
 
-### ❤ Ayu's favorite quote:
-> Knowledge changes you and so often you can't go back.
-> Whether is about people, life or about yourself, there is only going forward from it.
-<br><em>- JmStorm -</em>
+### ❤ Ayu's favorite quote at the moment:
+> If you fail, never give up because F.A.I.L. means "first Attempt In Learning";
+<br> End is not the end, if fact E.N.D. means "Effort Never Dies"; 
+<br> If you get no as an answer, remember N.O. means "Next Opportunity";
+<br><br> **- *A.P.J. Abdul Kalam* -**
 
 <br>
 
