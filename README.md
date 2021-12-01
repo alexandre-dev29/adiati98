@@ -18,11 +18,11 @@
 ### 📰 Ayu's Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- `2021-12-01` | [What I Learned From Project Collaboration With The Collab Lab](https://adiati.com/what-i-learned-from-project-collaboration-with-the-collab-lab)  
 - `2021-11-21` | [Chill &amp; Learn: How To Begin Thinking Like A Programmer](https://adiati.com/chill-and-learn-how-to-begin-thinking-like-a-programmer)  
 - `2021-11-18` | [My Impression of Polywork As A Web Developer And A Technical Blogger](https://adiati.com/my-impression-of-polywork-as-a-web-developer-and-a-technical-blogger)  
 - `2021-11-02` | [What I Learned From Hacktoberfest 2021](https://adiati.com/what-i-learned-from-hacktoberfest-2021)  
 - `2021-10-29` | [Contributing To Open-Source 101](https://adiati.com/contributing-to-open-source-101)  
-- `2021-10-12` | [First Week of The Hacktoberfest: 8 Top Questions Around Git](https://adiati.com/first-week-of-the-hacktoberfest-8-top-questions-around-git)  
 
 <!-- BLOG-POST-LIST:END -->
 
