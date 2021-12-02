@@ -1,13 +1,13 @@
 # Welcome To Ayu's GitHub Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
 ## :woman: About Ayu
-<br>:raising_hand: She is a frontend developer & technical blogger based in The Netherlands.
+<br>:raising_hand: She is a software engineer & technical blogger based in The Netherlands.
 
 <br>📚 Her stack is HTML, CSS, and Javascript. Scroll down to **Ayu's Tools** section to see more. 
 
 <br>:car: Along her journey, she gets passionate about communities, accessibility, open-source, and (technical) writing.
 
-<br>:star: She's currently a cohort in  [The Collab Lab](https://the-collab-lab.codes/who-we-are/) (TCL 35 | October – November 2021).
+<br>:star: She's graduated from a cohort at  [The Collab Lab](https://the-collab-lab.codes/who-we-are/) (TCL 35 | October – November 2021).
 
 <br>🌱 She's learning React while brushing Javascript ES6 and above at the moment. She is also learning Firebase during The Collab Lab program.
 
