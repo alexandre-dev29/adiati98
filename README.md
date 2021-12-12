@@ -7,7 +7,7 @@
 
 <br>:car: Along her journey, she gets passionate about communities, accessibility, open-source, and (technical) writing.
 
-<br>:star: She's graduated from a cohort at  [The Collab Lab](https://the-collab-lab.codes/who-we-are/) (TCL 35 | October – November 2021).
+<br>:star: She's graduated from a cohort at  [The Collab Lab](https://the-collab-lab.codes/who-we-are/) (TCL 35 | October – December 2021).
 
 <br>🌱 She's learning React while brushing Javascript ES6 and above at the moment. She is also learning Firebase during The Collab Lab program.
 
