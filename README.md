@@ -18,11 +18,11 @@
 ### 📰 Ayu's Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- `2022-02-24` | [How to fetch a contribution branch to test it locally as an open-source maintainer](https://adiati.com/how-to-fetch-a-contribution-branch-to-test-it-locally-as-an-open-source-maintainer)  
 - `2022-02-14` | [Git: How to fetch a branch from the upstream to the local repo in 5 steps](https://adiati.com/git-how-to-fetch-a-branch-from-the-upstream-to-the-local-repo-in-5-steps)  
 - `2021-12-31` | [My 2021 Review: The Growing Pains](https://adiati.com/my-2021-review-the-growing-pains)  
 - `2021-12-01` | [What I Learned From Project Collaboration With The Collab Lab](https://adiati.com/what-i-learned-from-project-collaboration-with-the-collab-lab)  
 - `2021-11-21` | [Chill &amp; Learn: How To Begin Thinking Like A Programmer](https://adiati.com/chill-and-learn-how-to-begin-thinking-like-a-programmer)  
-- `2021-11-18` | [My Impression of Polywork As A Web Developer And A Technical Blogger](https://adiati.com/my-impression-of-polywork-as-a-web-developer-and-a-technical-blogger)  
 
 <!-- BLOG-POST-LIST:END -->
 
