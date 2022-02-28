@@ -9,7 +9,9 @@
 
 <br>:star: She's graduated from a cohort at  [The Collab Lab](https://the-collab-lab.codes/who-we-are/) (TCL 35 | October – December 2021).
 
-<br>🌱 She's learning React while brushing Javascript ES6 and above at the moment. She is also learning Firebase during The Collab Lab program.
+<br>🌱 She's learning React while brushing Javascript ES6 (and above) at the moment.
+
+<br>✨ She's very grateful that she's trusted to be the **Documentation Lead** at [Virtual Coffee](https://virtualcoffee.io/members/).
 
 <br>:pushpin: She's an active member of [Virtual Coffee](https://virtualcoffee.io/members/), [The Collab Lab](https://the-collab-lab.codes/who-we-are/), [CodeNewbie](https://community.codenewbie.org/adiatiayu), [DEV](https://dev.to/adiatiayu), and [Hashnode](https://hashnode.com/@ayuadiati) communities.
 
