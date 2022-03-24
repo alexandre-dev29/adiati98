@@ -10,12 +10,17 @@ I also have a deep passion for collaboration, community engagement, and contribu
 
 ## 🏆  Accomplishments
 
-- Top Stories from Hashnode on Hashnode's Weekly Digest #87 — [March](http://e.customeriomail.com/deliveries/RIDfBQMAAX95cXsCeohFOugRJfs-Ug==) 2022
+### 👩‍💻 Developer
+
 - Featured on Awesome Developer Diaries newsletter — [March](https://buttondown.email/awesomedeveloperdiaries/archive/victorias-edition-meet-ayu-and-how-to-get/) 2022
 - Graduated from The Collab Lab's project collaboration program — December 2021
-- Gained OSS Documentarian & OSS Mentor badges for Open Source October on Hashnode — [November](https://townhall.hashnode.com/oss-grant-badge-winners) 2021
 - Completed Hacktoberfest 2021 — October 2021
 - Guest on Virtual Coffee podcast (S3/Ep.3) — [July](https://virtualcoffee.io/podcast/0303-ayu-adiati/) 2021
+
+### ✍ Writer
+
+- Top Stories from Hashnode on Hashnode's Weekly Digest #87 — [March](http://e.customeriomail.com/deliveries/RIDfBQMAAX95cXsCeohFOugRJfs-Ug==) 2022
+- Gained OSS Documentarian & OSS Mentor badges for Open Source October on Hashnode — [November](https://townhall.hashnode.com/oss-grant-badge-winners) 2021
 - Featured articles on Hashnode — [June](https://adiati.com/lesson-learned-massive-burnout-in-learning-web-development), [September](https://adiati.com/i-have-been-writing-a-blog-for-10-months-here-is-my-story) 2021
 - CodeNewbie Community Spotlight — [April](https://community.codenewbie.org/codenewbie/ayu-polyglot-latte-lover-codenewbie-149m) 2021
 - Top 7 DEV — [March](https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-5h5d), [August](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3h2i), [November](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-35fb) 2021
@@ -56,7 +61,7 @@ I also have a deep passion for collaboration, community engagement, and contribu
 - [TCL-35: Weekly Sync 8 - Final Demo and Retro](https://www.youtube.com/watch?v=MIY3c2fh8xo)
 - [TCL-35: Weekly Sync 6 - Demos and Retros](https://www.youtube.com/watch?v=RGufaZFAJA8)
 
-### 📰 Latest Blog Posts
+## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - `2022-03-04` | [How To Use GitHub For Project Collaboration — Based on Agile Method](https://adiati.com/how-to-use-github-for-project-collaboration-based-on-agile-method)  
@@ -72,24 +77,20 @@ I also have a deep passion for collaboration, community engagement, and contribu
 
 <br>
 
-### ⚡ Fun Fact About Me
-<br>🗣 I speak four languages - Indonesian, English, Dutch and Japanese.
+## ⚡ Fun Fact About Me
+🗣 I speak four languages - Indonesian, English, Dutch and Japanese.
 
-<br>:sparkles: When I'm not coding, you would see me cuddling with my daughter, having my DSLR camera on my hands, or watching a movie.
+:sparkles: When I'm not coding, you would see me cuddling with my daughter, having my DSLR camera on my hands, or watching a movie.
 
-<br>☕ I enjoy my **ICED** Machiatto Latte, whether it's summer or winter!
+☕ I enjoy my **ICED** Machiatto Latte, whether it's summer or winter!
 
-<br>🤓 I am a life-long learner. Finding ways to solve problems make me excited, and coming out with a solution could make me do happy feet :penguin:
-
-<br>
+🤓 I am a life-long learner. Finding ways to solve problems make me excited, and coming out with a solution could make me do happy feet :penguin:
 
 ### ❤ My favorite quote at the moment:
 > If you fail, never give up because F.A.I.L. means "first Attempt In Learning";
 <br> End is not the end, if fact E.N.D. means "Effort Never Dies"; 
 <br> If you get no as an answer, remember N.O. means "Next Opportunity";
 <br><br> **- *A.P.J. Abdul Kalam* -**
-
-<br>
 
 ### :fire: My favorite GIF at the moment:
 ![let's go! gif](https://media.giphy.com/media/4GXUa4U05Q0JAM972c/giphy.gif)
@@ -114,7 +115,7 @@ I also have a deep passion for collaboration, community engagement, and contribu
 
 <br>
 
-### I'm currently Learning:
+### I'm currently learning:
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React icon" width="50" height="50">
 
 <br>
@@ -124,7 +125,7 @@ I also have a deep passion for collaboration, community engagement, and contribu
 
 <br>
 
-### In My Bucket List:
+### In my bucket list:
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/eleventy/eleventy-original.svg" alt="Eleventy icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgresQL icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass icon" width="50" height="50"> 
 
 <br>
