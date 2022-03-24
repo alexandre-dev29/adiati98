@@ -4,7 +4,7 @@
 
 I am a front-end software engineer with a strong interest in building projects that are accessible to everyone.
 
-Learning new things is something that fills me with excitement and I am always eager to share my learning in public and pass on my knowledge through [my blog](https://adiati.com) and [Twitter](https://twitter.com/adiatiayu).
+Learning new things fills me with excitement and I am always eager to share my learning in public and pass on my knowledge through [my blog](https://adiati.com) and [Twitter](https://twitter.com/adiatiayu).
 
 I also have a deep passion for collaboration, community engagement, and contributing to open sources.
 
@@ -73,13 +73,13 @@ I also have a deep passion for collaboration, community engagement, and contribu
 <br>
 
 ### ⚡ Fun Fact About Me
-<br>🗣 I speak 4 languages - Indonesian, English, Dutch and Japanese.
+<br>🗣 I speak four languages - Indonesian, English, Dutch and Japanese.
 
-<br>:sparkles: When I'm not coding, you would see me cuddling with my daughter, or having my DSLR camera on my hands, or watching movie.
+<br>:sparkles: When I'm not coding, you would see me cuddling with my daughter, having my DSLR camera on my hands, or watching a movie.
 
 <br>☕ I enjoy my **ICED** Machiatto Latte, whether it's summer or winter!
 
-<br>🤓 I am a life-long learner. Finding ways to solve problems make me excited, and coming out with solution could make me do happy feet :penguin:
+<br>🤓 I am a life-long learner. Finding ways to solve problems make me excited, and coming out with a solution could make me do happy feet :penguin:
 
 <br>
 
