@@ -10,7 +10,7 @@ I also have a deep passion for collaboration, community engagement, and contribu
 
 ## 🏆  Accomplishments
 
-- [How To Use GitHub For Project Collaboration — Based on Agile Method](https://adiati.com/how-to-use-github-for-project-collaboration-based-on-agile-method?source=newsletter) article was in Top Stories from Hashnode on Hashnode's Weekly Digest #87 — March 2022
+- Top Stories from Hashnode on Hashnode's Weekly Digest #87 — [March](http://e.customeriomail.com/deliveries/RIDfBQMAAX95cXsCeohFOugRJfs-Ug==) 2022
 - Featured on Awesome Developer Diaries newsletter — [March](https://buttondown.email/awesomedeveloperdiaries/archive/victorias-edition-meet-ayu-and-how-to-get/) 2022
 - Graduated from The Collab Lab's project collaboration program — December 2021
 - Gained OSS Documentarian & OSS Mentor badges for Open Source October on Hashnode — [November](https://townhall.hashnode.com/oss-grant-badge-winners) 2021
