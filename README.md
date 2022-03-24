@@ -1,23 +1,62 @@
-# Welcome To Ayu's GitHub Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+# Welcome To My GitHub Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-## :woman: About Ayu
-<br>:raising_hand: She is a software engineer & technical blogger based in The Netherlands.
+## :woman: About Me
 
-<br>📚 Her stack is HTML, CSS, and Javascript. Scroll down to **Ayu's Tools** section to see more. 
+I am a front-end software engineer with a strong interest in building projects that are accessible to everyone.
 
-<br>:car: Along her journey, she gets passionate about communities, accessibility, open-source, and (technical) writing.
+Learning new things is something that fills me with excitement and I am always eager to share my learning in public and pass on my knowledge through [my blog](https://adiati.com) and [Twitter](https://twitter.com/adiatiayu).
 
-<br>:star: She's graduated from a cohort at  [The Collab Lab](https://the-collab-lab.codes/who-we-are/) (TCL 35 | October – December 2021).
+I also have a deep passion for collaboration, community engagement, and contributing to open sources.
 
-<br>🌱 She's learning React while brushing Javascript ES6 (and above) at the moment.
+## 🏆  Accomplishments
 
-<br>✨ She's very grateful that she's trusted to be the **Documentation Lead** at [Virtual Coffee](https://virtualcoffee.io/members/).
+- [How To Use GitHub For Project Collaboration — Based on Agile Method](https://adiati.com/how-to-use-github-for-project-collaboration-based-on-agile-method?source=newsletter) article was in Top Stories from Hashnode on Hashnode's Weekly Digest #87 — March 2022
+- Featured on Awesome Developer Diaries newsletter — [March](https://buttondown.email/awesomedeveloperdiaries/archive/victorias-edition-meet-ayu-and-how-to-get/) 2022
+- Graduated from The Collab Lab's project collaboration program — December 2021
+- Gained OSS Documentarian & OSS Mentor badges for Open Source October on Hashnode — [November](https://townhall.hashnode.com/oss-grant-badge-winners) 2021
+- Completed Hacktoberfest 2021 — October 2021
+- Guest on Virtual Coffee podcast (S3/Ep.3) — [July](https://virtualcoffee.io/podcast/0303-ayu-adiati/) 2021
+- Featured articles on Hashnode — [June](https://adiati.com/lesson-learned-massive-burnout-in-learning-web-development), [September](https://adiati.com/i-have-been-writing-a-blog-for-10-months-here-is-my-story) 2021
+- CodeNewbie Community Spotlight — [April](https://community.codenewbie.org/codenewbie/ayu-polyglot-latte-lover-codenewbie-149m) 2021
+- Top 7 DEV — [March](https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-5h5d), [August](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3h2i), [November](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-35fb) 2021
+- Hashnode Spotlight of The Week — [March](https://twitter.com/hashnode/status/1366715534142812166) 2021
+- CodeNewbie Writers of The Month — [February](https://community.codenewbie.org/codenewbie/codenewbie-writers-of-the-month-february-2021-kb7) 2021
 
-<br>:pushpin: She's an active member of [Virtual Coffee](https://virtualcoffee.io/members/), [The Collab Lab](https://the-collab-lab.codes/who-we-are/), [CodeNewbie](https://community.codenewbie.org/adiatiayu), [DEV](https://dev.to/adiatiayu), and [Hashnode](https://hashnode.com/@ayuadiati) communities.
+## 👥 Community Activities
 
-<br> ✍ She is learning in public through her [Notes On Blog](https://adiati.com/).
+### [Virtual Coffee](https://virtualcoffee.io/)
 
-### 📰 Ayu's Latest Blog Posts
+- **Documentation Lead**
+- Open source contributor
+- Monthly challenges participant
+
+### [The Collab Lab](https://the-collab-lab.codes/)
+
+- **Code of Conduct Mentor**
+
+### [CodeNewbie](https://community.codenewbie.org/adiatiayu)
+
+- **Moderator (Trusted User)**
+- Active writer
+- Program Committee for CodeLand Conf 2021
+- Moderator CodeNewbie Challenge 2021
+
+### [DEV](https://dev.to/adiatiayu)
+
+- Active writer
+
+### [Hashnode](https://hashnode.com/@ayuadiati)
+
+- Active writer
+
+## 📹 Presentations
+
+- [The Collab Lab: Project Collaboration Program — Virtual Coffee Lunch & Learn](https://www.youtube.com/watch?v=BtJTeGuUKTM&t=2641s)
+- [Recess Video on CodeLand 2021](https://www.youtube.com/watch?t=3788&v=4pI7miwXwY0&feature=youtu.be)
+- [TCL-35: Weekly Sync 8 - Final Demo and Retro](https://www.youtube.com/watch?v=MIY3c2fh8xo)
+- [TCL-35: Weekly Sync 6 - Demos and Retros](https://www.youtube.com/watch?v=RGufaZFAJA8)
+
+### 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - `2022-03-04` | [How To Use GitHub For Project Collaboration — Based on Agile Method](https://adiati.com/how-to-use-github-for-project-collaboration-based-on-agile-method)  
@@ -33,18 +72,18 @@
 
 <br>
 
-### ⚡ Fun Fact About Ayu
-<br>🗣 She speaks 4 languages - Indonesian, English, Dutch and Japanese.
+### ⚡ Fun Fact About Me
+<br>🗣 I speak 4 languages - Indonesian, English, Dutch and Japanese.
 
-<br>:sparkles: When she's not coding, she would cuddling with her daugther, or having her DSLR camera on her hands, or watching movie.
+<br>:sparkles: When I'm not coding, you would see me cuddling with my daughter, or having my DSLR camera on my hands, or watching movie.
 
-<br>☕ She enjoys her **ICED** Machiatto Latte, whether it's summer or winter!
+<br>☕ I enjoy my **ICED** Machiatto Latte, whether it's summer or winter!
 
-<br>🤓 She is a life-long learner. Finding ways to solve problems makes her excited, and coming out with solution could make her do happy feet :penguin:
+<br>🤓 I am a life-long learner. Finding ways to solve problems make me excited, and coming out with solution could make me do happy feet :penguin:
 
 <br>
 
-### ❤ Ayu's favorite quote at the moment:
+### ❤ My favorite quote at the moment:
 > If you fail, never give up because F.A.I.L. means "first Attempt In Learning";
 <br> End is not the end, if fact E.N.D. means "Effort Never Dies"; 
 <br> If you get no as an answer, remember N.O. means "Next Opportunity";
@@ -52,14 +91,14 @@
 
 <br>
 
-### :fire: Ayu's favorite GIF at the moment:
+### :fire: My favorite GIF at the moment:
 ![let's go! gif](https://media.giphy.com/media/4GXUa4U05Q0JAM972c/giphy.gif)
 
 ---
 
 <br>
 
-## :bar_chart: Ayu's GitHub Stats
+## :bar_chart: GitHub Stats
 
 ![Ayu's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=adiati98&count_private=true&theme=tokyonight&showicons=true)
 
@@ -69,23 +108,23 @@
 
 <br>
 
-## :hammer: Ayu's Tools
+## :hammer: My Tools
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="Yarn icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git icon" width="50" height="50"> 
 
 <br>
 
-### Currently Learning:
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase icon" width="50" height="50"> 
+### I'm currently Learning:
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React icon" width="50" height="50">
 
 <br>
 
-### Has Knowledge of:
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS icon" width="70" height="70"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB icon" width="50" height="50"> 
+### I have knowledge of:
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS icon" width="70" height="70"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase icon" width="50" height="50"> 
 
 <br>
 
-### In Her Bucket List:
+### In My Bucket List:
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/eleventy/eleventy-original.svg" alt="Eleventy icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgresQL icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass icon" width="50" height="50"> 
 
 <br>
