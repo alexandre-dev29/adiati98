@@ -50,7 +50,7 @@ I also have a deep passion for collaboration, community engagement, and contribu
 
 - Active writer
 
-### [Hashnode](https://hashnode.com/@ayuadiati)
+### [Hashnode](https://hashnode.com/@adiatiayu)
 
 - Active writer
 
