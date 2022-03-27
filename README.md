@@ -37,7 +37,7 @@ I also have a deep passion for collaboration, community engagement, and contribu
 
 ### [The Collab Lab](https://the-collab-lab.codes/)
 
-- **Code of Conduct Mentor**
+- **Code of Conduct Responder**
 
 ### [CodeNewbie](https://community.codenewbie.org/adiatiayu)
 
