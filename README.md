@@ -32,6 +32,7 @@ I also have a deep passion for collaboration, community engagement, and contribu
 ### [Virtual Coffee](https://virtualcoffee.io/)
 
 - **Documentation Lead**
+- **VC Advisor**
 - Open source contributor
 - Monthly challenges participant
 
@@ -56,6 +57,7 @@ I also have a deep passion for collaboration, community engagement, and contribu
 
 ## 📹 Presentations
 
+- [The Challenges of Self-Taught Dev and How to Overcome Them — Virtual Coffee Lightning Talks 2022](https://www.youtube.com/watch?v=CP9drTHQL-Y&t=8s)
 - [The Collab Lab: Project Collaboration Program — Virtual Coffee Lunch & Learn](https://www.youtube.com/watch?v=BtJTeGuUKTM&t=2641s)
 - [Recess Video on CodeLand 2021](https://www.youtube.com/watch?t=3788&v=4pI7miwXwY0&feature=youtu.be)
 - [TCL-35: Weekly Sync 8 - Final Demo and Retro](https://www.youtube.com/watch?v=MIY3c2fh8xo)
