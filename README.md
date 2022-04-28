@@ -6,7 +6,7 @@ I am a front-end software engineer with a strong interest in building projects t
 
 Learning new things fills me with excitement and I am always eager to share my learning in public and pass on my knowledge through [my blog](https://adiati.com) and [Twitter](https://twitter.com/adiatiayu).
 
-I also have a deep passion for collaboration, community engagement, and contributing to open sources.
+I also have a deep passion for collaborations, contributing to open sources, and community engagements.
 
 ## 🏆  Accomplishments
 
@@ -15,7 +15,6 @@ I also have a deep passion for collaboration, community engagement, and contribu
 - Featured on Awesome Developer Diaries newsletter — [March](https://buttondown.email/awesomedeveloperdiaries/archive/victorias-edition-meet-ayu-and-how-to-get/) 2022
 - Graduated from The Collab Lab's project collaboration program — December 2021
 - Completed Hacktoberfest 2021 — October 2021
-- Guest on Virtual Coffee podcast (S3/Ep.3) — [July](https://virtualcoffee.io/podcast/0303-ayu-adiati/) 2021
 
 ### ✍ Writer
 
@@ -26,6 +25,17 @@ I also have a deep passion for collaboration, community engagement, and contribu
 - Top 7 DEV — [March](https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-5h5d), [August](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3h2i), [November](https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-35fb) 2021
 - Hashnode Spotlight of The Week — [March](https://twitter.com/hashnode/status/1366715534142812166) 2021
 - CodeNewbie Writers of The Month — [February](https://community.codenewbie.org/codenewbie/codenewbie-writers-of-the-month-february-2021-kb7) 2021
+
+### 🗣 Speaking Engagements & Presentations
+
+- [The Challenges of Self-Taught Dev and How to Overcome Them — Virtual Coffee Lightning Talks 2022](https://www.youtube.com/watch?v=CP9drTHQL-Y&t=8s)
+- [The Collab Lab: Project Collaboration Program — Virtual Coffee Lunch & Learn](https://www.youtube.com/watch?v=BtJTeGuUKTM&t=2641s)
+- [Recess Video on CodeLand 2021](https://www.youtube.com/watch?t=3788&v=4pI7miwXwY0&feature=youtu.be)
+- [TCL-35: Weekly Sync 8 - Final Demo and Retro](https://www.youtube.com/watch?v=MIY3c2fh8xo)
+- [TCL-35: Weekly Sync 6 - Demos and Retros](https://www.youtube.com/watch?v=RGufaZFAJA8)
+- Guest on Virtual Coffee podcast (S3/Ep.3) — [July](https://virtualcoffee.io/podcast/0303-ayu-adiati/) 2021
+
+
 
 ## 👥 Community Activities
 
@@ -54,14 +64,6 @@ I also have a deep passion for collaboration, community engagement, and contribu
 ### [Hashnode](https://hashnode.com/@adiatiayu)
 
 - Active writer
-
-## 📹 Presentations
-
-- [The Challenges of Self-Taught Dev and How to Overcome Them — Virtual Coffee Lightning Talks 2022](https://www.youtube.com/watch?v=CP9drTHQL-Y&t=8s)
-- [The Collab Lab: Project Collaboration Program — Virtual Coffee Lunch & Learn](https://www.youtube.com/watch?v=BtJTeGuUKTM&t=2641s)
-- [Recess Video on CodeLand 2021](https://www.youtube.com/watch?t=3788&v=4pI7miwXwY0&feature=youtu.be)
-- [TCL-35: Weekly Sync 8 - Final Demo and Retro](https://www.youtube.com/watch?v=MIY3c2fh8xo)
-- [TCL-35: Weekly Sync 6 - Demos and Retros](https://www.youtube.com/watch?v=RGufaZFAJA8)
 
 ## 📰 Latest Blog Posts
 
