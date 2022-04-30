@@ -26,7 +26,7 @@ I also have a deep passion for collaborations, contributing to open sources, and
 - Hashnode Spotlight of The Week — [March](https://twitter.com/hashnode/status/1366715534142812166) 2021
 - CodeNewbie Writers of The Month — [February](https://community.codenewbie.org/codenewbie/codenewbie-writers-of-the-month-february-2021-kb7) 2021
 
-### 🗣 Speaking Engagements & Presentations
+### 🗣 Presentations & Speaking Engagements
 
 - [The Challenges of Self-Taught Dev and How to Overcome Them — Virtual Coffee Lightning Talks 2022](https://www.youtube.com/watch?v=CP9drTHQL-Y&t=8s)
 - [The Collab Lab: Project Collaboration Program — Virtual Coffee Lunch & Learn](https://www.youtube.com/watch?v=BtJTeGuUKTM&t=2641s)
