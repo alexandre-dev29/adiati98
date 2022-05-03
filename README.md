@@ -68,11 +68,11 @@ I also have a deep passion for collaborations, contributing to open sources, and
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- `2022-05-03` | [Turn Your Blog Post Into A Virtual Talk](https://adiati.com/turn-your-blog-post-into-a-virtual-talk)  
 - `2022-04-15` | [Guide To Asking Questions About Code](https://adiati.com/guide-to-asking-questions-about-code)  
 - `2022-04-13` | [Tech Is For Everyone. Don&#39;t Let People Tell You Otherwise](https://adiati.com/tech-is-for-everyone-dont-let-people-tell-you-otherwise)  
 - `2022-03-04` | [How To Use GitHub For Project Collaboration — Based on Agile Method](https://adiati.com/how-to-use-github-for-project-collaboration-based-on-agile-method)  
 - `2022-02-24` | [How to fetch a contribution branch to test it locally as an open-source maintainer](https://adiati.com/how-to-fetch-a-contribution-branch-to-test-it-locally-as-an-open-source-maintainer)  
-- `2022-02-14` | [Git: How to fetch a branch from the upstream to the local repo in 5 steps](https://adiati.com/git-how-to-fetch-a-branch-from-the-upstream-to-the-local-repo-in-5-steps)  
 
 <!-- BLOG-POST-LIST:END -->
 
