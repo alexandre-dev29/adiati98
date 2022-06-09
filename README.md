@@ -1,4 +1,6 @@
-# Welcome To My GitHub Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+
+# Welcome To My GitHub Profile
 
 ## :woman: About Me
 
@@ -49,6 +51,7 @@ I also have a deep passion for collaborations, contributing to open sources, and
 ### [The Collab Lab](https://the-collab-lab.codes/)
 
 - **Code of Conduct Responder**
+- **Social Media Committee**
 
 ### [CodeNewbie](https://community.codenewbie.org/adiatiayu)
 
@@ -91,9 +94,9 @@ I also have a deep passion for collaborations, contributing to open sources, and
 🤓 I am a life-long learner. Finding ways to solve problems make me excited, and coming out with a solution could make me do happy feet :penguin:
 
 ### ❤ My favorite quote at the moment:
-> If you fail, never give up because F.A.I.L. means "first Attempt In Learning";
-<br> End is not the end, if fact E.N.D. means "Effort Never Dies"; 
-<br> If you get no as an answer, remember N.O. means "Next Opportunity";
+> If you fail, never give up because F.A.I.L. means "First Attempt In Learning";
+<br> End is not the end. In fact, E.N.D. means "Effort Never Dies"; 
+<br> If you get no as an answer, remember: N.O. means "Next Opportunity";
 <br><br> **- *A.P.J. Abdul Kalam* -**
 
 ### :fire: My favorite GIF at the moment:
