@@ -62,6 +62,7 @@ I also have a deep passion for collaborations, contributing to open sources, and
 
 ### [DEV](https://dev.to/adiatiayu)
 
+- **Moderator (Trusted User)**
 - Active writer
 
 ### [Hashnode](https://hashnode.com/@adiatiayu)
