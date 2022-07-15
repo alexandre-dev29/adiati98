@@ -1,3 +1,5 @@
+![ayu-adiati-banner](https://user-images.githubusercontent.com/45172775/179175986-ca7617ea-c272-4fe9-93f7-0a42607d6333.png)
+
 # Welcome To My GitHub Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 ## :woman: About Me
@@ -148,5 +150,3 @@ I also have a deep passion for collaborations, contributing to open sources, and
 <a href="https://dev.to/adiatiayu">![DEV Follow](https://img.shields.io/badge/Let's%20connect%20on-DEV-000?style=for-the-badge&logo=devdotto)
 <a href="https://community.codenewbie.org/adiatiayu">![CodeNewbie Follow](https://img.shields.io/badge/Let's%20connect%20on-CODENEWBIE-6bd80b?style=for-the-badge&logo=codenewbie)
 <a href="https://hashnode.com/@adiatiayu">![Hashnode Follow](https://img.shields.io/badge/Let's%20connect%20on-HASHNODE-2962ff?style=for-the-badge&logo=hashnode)
-
-
