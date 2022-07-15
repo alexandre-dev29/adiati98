@@ -1,4 +1,5 @@
-![ayu-adiati-banner](https://user-images.githubusercontent.com/45172775/179175986-ca7617ea-c272-4fe9-93f7-0a42607d6333.png)
+
+![ayu-adiati-banner](https://user-images.githubusercontent.com/45172775/179181322-ce54aa2a-6635-4f66-8ac5-a7c4024ec0f2.png)
 
 # Welcome To My GitHub Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
