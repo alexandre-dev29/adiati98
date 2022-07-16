@@ -13,11 +13,11 @@ I also have a deep passion for collaborations, contributing to open sources, and
 You can find me here 👇
 
 <p align="center">
-<a href="https://twitter.com/AdiatiAyu"><img src="https://img.shields.io/badge/-Twitter-F3F7FA?logo=twitter&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" alt="Twitter"></a>
-<a href="https://www.polywork.com/adiatiayu"><img src="https://img.shields.io/badge/-Polywork-F3F7FA?logo=polywork&logoColor=543DE0&style=for-the-badge&logoWidth=30" alt="Polywork"></a>
-<a href="https://dev.to/adiatiayu"><img src="https://img.shields.io/badge/-DEV-F3F7FA?logo=dev.to&logoColor=0A0A0A&style=for-the-badge&logoWidth=30" alt="DEV"></a>
-<a href="https://community.codenewbie.org/adiatiayu"><img src="https://img.shields.io/badge/-CodeNewbie-F3F7FA?logo=codenewbie&logoColor=9013FE&style=for-the-badge&logoWidth=30" alt="Codenewbie"></a>
-<a href="https://hashnode.com/@adiatiayu"><img src="https://img.shields.io/badge/-Hashnode-F3F7FA?logo=hashnode&logoColor=2962FF&style=for-the-badge&logoWidth=30" alt="Hashnode"></a>
+<a href="https://twitter.com/AdiatiAyu"><img src="https://img.shields.io/badge/-Twitter-D9DDFF?logo=twitter&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" alt="Twitter"></a>
+<a href="https://www.polywork.com/adiatiayu"><img src="https://img.shields.io/badge/-Polywork-D9DDFF?logo=polywork&logoColor=543DE0&style=for-the-badge&logoWidth=30" alt="Polywork"></a>
+<a href="https://dev.to/adiatiayu"><img src="https://img.shields.io/badge/-DEV-D9DDFF?logo=dev.to&logoColor=0A0A0A&style=for-the-badge&logoWidth=30" alt="DEV"></a>
+<a href="https://community.codenewbie.org/adiatiayu"><img src="https://img.shields.io/badge/-CodeNewbie-D9DDFF?logo=codenewbie&logoColor=9013FE&style=for-the-badge&logoWidth=30" alt="Codenewbie"></a>
+<a href="https://hashnode.com/@adiatiayu"><img src="https://img.shields.io/badge/-Hashnode-D9DDFF?logo=hashnode&logoColor=2962FF&style=for-the-badge&logoWidth=30" alt="Hashnode"></a>
 </p>
 
 <br> 
@@ -42,12 +42,12 @@ You can find me here 👇
 
 ### I have also worked with:
 <p align="center">
-<img src="https://img.shields.io/badge/-Bootstrap-F3F7FA?logo=bootstrap&logoColor=7952B3&style=for-the-badge&logoWidth=30" alt="Bootstrap">
-<img src="https://img.shields.io/badge/-Tailwind CSS-F3F7FA?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge&logoWidth=30" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
-<img src="https://img.shields.io/badge/-Express-F3F7FA?logo=express&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Express">
-<img src="https://img.shields.io/badge/-MongoDB-F3F7FA?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=30" alt="MongoDB">
-<img src="https://img.shields.io/badge/-Firebase-F3F7FA?logo=firebase&logoColor=FFCA28&style=for-the-badge&logoWidth=30" alt="Firebase">
+<img src="https://img.shields.io/badge/-Bootstrap-D9DDFF?logo=bootstrap&logoColor=7952B3&style=for-the-badge&logoWidth=30" alt="Bootstrap">
+<img src="https://img.shields.io/badge/-Tailwind CSS-D9DDFF?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge&logoWidth=30" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/-NodeJS-D9DDFF?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
+<img src="https://img.shields.io/badge/-Express-D9DDFF?logo=express&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Express">
+<img src="https://img.shields.io/badge/-MongoDB-D9DDFF?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=30" alt="MongoDB">
+<img src="https://img.shields.io/badge/-Firebase-D9DDFF?logo=firebase&logoColor=FFCA28&style=for-the-badge&logoWidth=30" alt="Firebase">
 </p>
 
 ### In my bucket list:
