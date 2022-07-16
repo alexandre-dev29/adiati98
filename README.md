@@ -1,6 +1,6 @@
 ![ayu adiati banner](https://user-images.githubusercontent.com/45172775/179183742-8967d320-0061-4539-bb38-4c797989e4d7.png)
 
-# Welcome To My GitHub Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+# Hi there! Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 ## :woman: About Me
 
@@ -9,6 +9,73 @@ I am a front-end software engineer with a strong interest in building projects t
 Learning new things fills me with excitement and I am always eager to share my learning in public and pass on my knowledge through [my blog](https://adiati.com) and [Twitter](https://twitter.com/adiatiayu).
 
 I also have a deep passion for collaborations, contributing to open sources, and community engagements.
+
+You can find me here 👇
+
+<p align="center">
+<a href="https://twitter.com/AdiatiAyu"><img src="https://img.shields.io/badge/-Twitter-F3F7FA?logo=twitter&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" alt="Twitter"></a>
+<a href="https://www.polywork.com/adiatiayu"><img src="https://img.shields.io/badge/-Polywork-F3F7FA?logo=polywork&logoColor=543DE0&style=for-the-badge&logoWidth=30" alt="Polywork"></a>
+<a href="https://dev.to/adiatiayu"><img src="https://img.shields.io/badge/-DEV-F3F7FA?logo=dev.to&logoColor=0A0A0A&style=for-the-badge&logoWidth=30" alt="DEV"></a>
+<a href="https://community.codenewbie.org/adiatiayu"><img src="https://img.shields.io/badge/-CodeNewbie-F3F7FA?logo=codenewbie&logoColor=9013FE&style=for-the-badge&logoWidth=30" alt="Codenewbie"></a>
+<a href="https://hashnode.com/@adiatiayu"><img src="https://img.shields.io/badge/-Hashnode-F3F7FA?logo=hashnode&logoColor=2962FF&style=for-the-badge&logoWidth=30" alt="Hashnode"></a>
+</p>
+
+
+<br>
+
+![horizontal line ](https://user-images.githubusercontent.com/45172775/179319408-f72a4489-8155-4457-88f4-6e90e5634536.png)
+
+<br>
+
+## 💻 Skills
+
+<p align="center">
+<img src="https://img.shields.io/badge/-HTML5-05128B?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="HTML5">
+<img src="https://img.shields.io/badge/-CSS3-05128B?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="CSS3">
+<img src="https://img.shields.io/badge/-JavaScript-05128B?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Javascript">
+<img src="https://img.shields.io/badge/-React-05128B?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React">
+<img src="https://img.shields.io/badge/-Git-05128B?logo=git&logoColor=F05032&style=for-the-badge&logoWidth=30" alt="Git">
+<img src="https://img.shields.io/badge/-Markdown-05128B?logo=markdown&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Markdown">
+<br>
+<img src="https://img.shields.io/badge/-GitHub-FB750B?logo=github&logoColor=181717&style=for-the-badge&logoWidth=30" alt="GitHub">
+<img src="https://img.shields.io/badge/-Visual Studio Code-FB750B?logo=visualstudiocode&logoColor=007ACC&style=for-the-badge&logoWidth=30" alt="Visual Studio Code">
+<img src="https://img.shields.io/badge/-Lighthouse-FB750B?logo=lighthouse&logoColor=F44B21&style=for-the-badge&logoWidth=30" alt="Lighthouse">
+<img src="https://img.shields.io/badge/-Canva-FB750B?logo=canva&logoColor=00C4CC&style=for-the-badge&logoWidth=30" alt="Canva">
+</p>
+
+### I have worked with:
+<p align="center">
+<img src="https://img.shields.io/badge/-Bootstrap-F3F7FA?logo=bootstrap&logoColor=7952B3&style=for-the-badge&logoWidth=30" alt="Bootstrap">
+<img src="https://img.shields.io/badge/-Tailwind CSS-F3F7FA?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge&logoWidth=30" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
+<img src="https://img.shields.io/badge/-Express-F3F7FA?logo=express&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Express">
+<img src="https://img.shields.io/badge/-MongoDB-F3F7FA?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=30" alt="MongoDB">
+<img src="https://img.shields.io/badge/-Firebase-F3F7FA?logo=firebase&logoColor=FFCA28&style=for-the-badge&logoWidth=30" alt="Firebase">
+</p>
+
+### In my bucket list:
+
+<p align="center">
+<img src="https://img.shields.io/badge/-Typescript-FADDC6?logo=typescript&logoColor=3178C6&style=for-the-badge&logoWidth=30" alt="Typescript">
+<img src="https://img.shields.io/badge/-Sass-FADDC6?logo=sass&logoColor=CC6699&style=for-the-badge&logoWidth=30" alt="Sass">
+<img src="https://img.shields.io/badge/-PostgreSQL-FADDC6?logo=postgresql&logoColor=4169E1&style=for-the-badge&logoWidth=30" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/-Docker-FADDC6?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=30" alt="Docker">
+<img src="https://img.shields.io/badge/-Vue-FADDC6?logo=vue.js&logoColor=4FC08D&style=for-the-badge&logoWidth=30" alt="VueJS">
+<img src="https://img.shields.io/badge/-Eleventy-FADDC6?logo=eleventy&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Eleventy">
+</p>
+
+<br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/?username=adiati98&count_private=true&theme=tokyonight&showicons=true" alt="GitHub Stats Ayu Adiati">
+</P>
+
+<br>
+
+![horizontal line ](https://user-images.githubusercontent.com/45172775/179319408-f72a4489-8155-4457-88f4-6e90e5634536.png)
+
+<br>
+
 
 ## 🏆  Accomplishments
 
@@ -36,8 +103,6 @@ I also have a deep passion for collaborations, contributing to open sources, and
 - [TCL-35: Weekly Sync 8 - Final Demo and Retro](https://www.youtube.com/watch?v=MIY3c2fh8xo)
 - [TCL-35: Weekly Sync 6 - Demos and Retros](https://www.youtube.com/watch?v=RGufaZFAJA8)
 - Guest on Virtual Coffee podcast (S3/Ep.3) — [July](https://virtualcoffee.io/podcast/0303-ayu-adiati/) 2021
-
-
 
 ## 👥 Community Activities
 
@@ -69,6 +134,12 @@ I also have a deep passion for collaborations, contributing to open sources, and
 
 - Active writer
 
+<br>
+
+![horizontal line ](https://user-images.githubusercontent.com/45172775/179319408-f72a4489-8155-4457-88f4-6e90e5634536.png)
+
+<br>
+
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -80,19 +151,28 @@ I also have a deep passion for collaborations, contributing to open sources, and
 
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://adiati.com)
+▶ [...more blog, articles](https://adiati.com)
 
+<br>
+
+![horizontal line ](https://user-images.githubusercontent.com/45172775/179319408-f72a4489-8155-4457-88f4-6e90e5634536.png)
 
 <br>
 
 ## ⚡ Fun Fact About Me
-🗣 I speak four languages - Indonesian, English, Dutch and Japanese.
+🗣 I speak four languages — Indonesian, English, Dutch and Japanese.
 
 :sparkles: When I'm not coding, you would see me cuddling with my daughter, having my DSLR camera on my hands, or watching a movie.
 
 ☕ I enjoy my **ICED** Machiatto Latte, whether it's summer or winter!
 
 🤓 I am a life-long learner. Finding ways to solve problems make me excited, and coming out with a solution could make me do happy feet :penguin:
+
+<br>
+
+![horizontal line ](https://user-images.githubusercontent.com/45172775/179319408-f72a4489-8155-4457-88f4-6e90e5634536.png)
+
+<br>
 
 ### ❤ My favorite quote at the moment:
 > If you fail, never give up because F.A.I.L. means "First Attempt In Learning";
@@ -103,50 +183,6 @@ I also have a deep passion for collaborations, contributing to open sources, and
 ### :fire: My favorite GIF at the moment:
 ![let's go! gif](https://media.giphy.com/media/4GXUa4U05Q0JAM972c/giphy.gif)
 
----
-
 <br>
 
-## :bar_chart: GitHub Stats
-
-![Ayu's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=adiati98&count_private=true&theme=tokyonight&showicons=true)
-
-<br>
-
----
-
-<br>
-
-## :hammer: My Tools
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="Yarn icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git icon" width="50" height="50"> 
-
-<br>
-
-### I'm currently learning:
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React icon" width="50" height="50">
-
-<br>
-
-### I have knowledge of:
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS icon" width="70" height="70"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase icon" width="50" height="50"> 
-
-<br>
-
-### In my bucket list:
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/eleventy/eleventy-original.svg" alt="Eleventy icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgresQL icon" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass icon" width="50" height="50"> 
-
-<br>
-
----
-
-<br>
-
-## 🤩 New Friends Are Welcome!
-
-<a href="https://twitter.com/AdiatiAyu">![Twitter Follow](https://img.shields.io/badge/Let's%20connect%20on-TWITTER-4495d4?style=for-the-badge&logo=twitter) 
-<a href="https://www.polywork.com/adiatiayu">![Polywork Follow](https://img.shields.io/badge/Let's%20connect%20on-POLYWORK-582be8?style=for-the-badge&logo=polywork)
-  
-<a href="https://dev.to/adiatiayu">![DEV Follow](https://img.shields.io/badge/Let's%20connect%20on-DEV-000?style=for-the-badge&logo=devdotto)
-<a href="https://community.codenewbie.org/adiatiayu">![CodeNewbie Follow](https://img.shields.io/badge/Let's%20connect%20on-CODENEWBIE-6bd80b?style=for-the-badge&logo=codenewbie)
-<a href="https://hashnode.com/@adiatiayu">![Hashnode Follow](https://img.shields.io/badge/Let's%20connect%20on-HASHNODE-2962ff?style=for-the-badge&logo=hashnode)
+![Footer](https://user-images.githubusercontent.com/45172775/179325417-80155a02-f028-4345-a3c7-2dd8f8a3b406.png)
