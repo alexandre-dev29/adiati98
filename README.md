@@ -20,12 +20,7 @@ You can find me here 👇
 <a href="https://hashnode.com/@adiatiayu"><img src="https://img.shields.io/badge/-Hashnode-F3F7FA?logo=hashnode&logoColor=2962FF&style=for-the-badge&logoWidth=30" alt="Hashnode"></a>
 </p>
 
-
-<br>
-
-![horizontal line ](https://user-images.githubusercontent.com/45172775/179319408-f72a4489-8155-4457-88f4-6e90e5634536.png)
-
-<br>
+<br>![Horizontal Line](https://user-images.githubusercontent.com/45172775/179350312-98d35f1d-43cc-4593-8f0c-37204914af73.svg)
 
 ## 💻 Skills
 
@@ -70,12 +65,7 @@ You can find me here 👇
 <img src="https://github-readme-stats.vercel.app/api/?username=adiati98&count_private=true&theme=tokyonight&showicons=true" alt="GitHub Stats Ayu Adiati">
 </P>
 
-<br>
-
-![horizontal line ](https://user-images.githubusercontent.com/45172775/179319408-f72a4489-8155-4457-88f4-6e90e5634536.png)
-
-<br>
-
+<br>![Horizontal Line](https://user-images.githubusercontent.com/45172775/179350312-98d35f1d-43cc-4593-8f0c-37204914af73.svg)
 
 ## 🏆  Accomplishments
 
@@ -134,11 +124,7 @@ You can find me here 👇
 
 - Active writer
 
-<br>
-
-![horizontal line ](https://user-images.githubusercontent.com/45172775/179319408-f72a4489-8155-4457-88f4-6e90e5634536.png)
-
-<br>
+<br>![Horizontal Line](https://user-images.githubusercontent.com/45172775/179350312-98d35f1d-43cc-4593-8f0c-37204914af73.svg)
 
 ## 📰 Latest Blog Posts
 
@@ -153,11 +139,7 @@ You can find me here 👇
 
 ▶ [...more blog, articles](https://adiati.com)
 
-<br>
-
-![horizontal line ](https://user-images.githubusercontent.com/45172775/179319408-f72a4489-8155-4457-88f4-6e90e5634536.png)
-
-<br>
+<br>![Horizontal Line](https://user-images.githubusercontent.com/45172775/179350312-98d35f1d-43cc-4593-8f0c-37204914af73.svg)
 
 ## ⚡ Fun Fact About Me
 🗣 I speak four languages — Indonesian, English, Dutch and Japanese.
@@ -168,11 +150,7 @@ You can find me here 👇
 
 🤓 I am a life-long learner. Finding ways to solve problems make me excited, and coming out with a solution could make me do happy feet :penguin:
 
-<br>
-
-![horizontal line ](https://user-images.githubusercontent.com/45172775/179319408-f72a4489-8155-4457-88f4-6e90e5634536.png)
-
-<br>
+<br>![Horizontal Line](https://user-images.githubusercontent.com/45172775/179350312-98d35f1d-43cc-4593-8f0c-37204914af73.svg)
 
 ### ❤ My favorite quote at the moment:
 > If you fail, never give up because F.A.I.L. means "First Attempt In Learning";
