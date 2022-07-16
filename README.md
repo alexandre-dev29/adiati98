@@ -2,6 +2,27 @@
 
 # Hi there! Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
+<!--
+## 🔎 What you will find here
+
+- [:woman: About Me](#woman-about-me)
+- [💻 Skills](#-skills)
+  - [I have also worked with](#i-have-also-worked-with)
+  - [In my bucket list](#in-my-bucket-list)
+- [🏆 Accomplishments](#-accomplishments)
+  - [👩‍💻 Developer](#-developer)
+  - [✍ Writer](#-writer)
+  - [🗣 Presentations & Speaking Engagements](#-presentations--speaking-engagements)
+- [👥 Community Activities](#-community-activities)
+  - [Virtual Coffee](#virtual-coffee)
+  - [The Collab Lab](#the-collab-lab)
+  - [CodeNewbie](#codenewbie)
+  - [DEV](#dev)
+  - [Hashnode](#hashnode)
+- [📰 Latest Blog Posts](#-latest-blog-posts)
+- [⚡ Fun Fact About Me](#-fun-fact-about-me)
+-->
+
 ## :woman: About Me
 
 I am a front-end software engineer with a strong interest in building projects that are accessible to everyone.
@@ -13,16 +34,18 @@ I also have a deep passion for collaborations, contributing to open sources, and
 You can find me here 👇
 
 <p align="center">
-<a href="https://twitter.com/AdiatiAyu"><img src="https://img.shields.io/badge/-Twitter-D9DDFF?logo=twitter&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" alt="Twitter"></a>
-<a href="https://www.polywork.com/adiatiayu"><img src="https://img.shields.io/badge/-Polywork-D9DDFF?logo=polywork&logoColor=543DE0&style=for-the-badge&logoWidth=30" alt="Polywork"></a>
-<a href="https://dev.to/adiatiayu"><img src="https://img.shields.io/badge/-DEV-D9DDFF?logo=dev.to&logoColor=0A0A0A&style=for-the-badge&logoWidth=30" alt="DEV"></a>
-<a href="https://community.codenewbie.org/adiatiayu"><img src="https://img.shields.io/badge/-CodeNewbie-D9DDFF?logo=codenewbie&logoColor=9013FE&style=for-the-badge&logoWidth=30" alt="Codenewbie"></a>
-<a href="https://hashnode.com/@adiatiayu"><img src="https://img.shields.io/badge/-Hashnode-D9DDFF?logo=hashnode&logoColor=2962FF&style=for-the-badge&logoWidth=30" alt="Hashnode"></a>
+<a href="https://twitter.com/AdiatiAyu"><img src="https://img.shields.io/badge/-Twitter-F3F7FA?logo=twitter&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" alt="Twitter"></a>
+<a href="https://www.polywork.com/adiatiayu"><img src="https://img.shields.io/badge/-Polywork-F3F7FA?logo=polywork&logoColor=543DE0&style=for-the-badge&logoWidth=30" alt="Polywork"></a>
+<a href="https://dev.to/adiatiayu"><img src="https://img.shields.io/badge/-DEV-F3F7FA?logo=dev.to&logoColor=0A0A0A&style=for-the-badge&logoWidth=30" alt="DEV"></a>
+<a href="https://community.codenewbie.org/adiatiayu"><img src="https://img.shields.io/badge/-CodeNewbie-F3F7FA?logo=codenewbie&logoColor=9013FE&style=for-the-badge&logoWidth=30" alt="Codenewbie"></a>
+<a href="https://hashnode.com/@adiatiayu"><img src="https://img.shields.io/badge/-Hashnode-F3F7FA?logo=hashnode&logoColor=2962FF&style=for-the-badge&logoWidth=30" alt="Hashnode"></a>
 </p>
 
 <br> 
 
 ![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
+
+<br>
 
 ## 💻 Skills
 
@@ -40,17 +63,17 @@ You can find me here 👇
 <img src="https://img.shields.io/badge/-Canva-FB750B?logo=canva&logoColor=00C4CC&style=for-the-badge&logoWidth=30" alt="Canva">
 </p>
 
-### I have also worked with:
+### I have also worked with
 <p align="center">
-<img src="https://img.shields.io/badge/-Bootstrap-D9DDFF?logo=bootstrap&logoColor=7952B3&style=for-the-badge&logoWidth=30" alt="Bootstrap">
-<img src="https://img.shields.io/badge/-Tailwind CSS-D9DDFF?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge&logoWidth=30" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/-NodeJS-D9DDFF?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
-<img src="https://img.shields.io/badge/-Express-D9DDFF?logo=express&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Express">
-<img src="https://img.shields.io/badge/-MongoDB-D9DDFF?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=30" alt="MongoDB">
-<img src="https://img.shields.io/badge/-Firebase-D9DDFF?logo=firebase&logoColor=FFCA28&style=for-the-badge&logoWidth=30" alt="Firebase">
+<img src="https://img.shields.io/badge/-Bootstrap-F3F7FA?logo=bootstrap&logoColor=7952B3&style=for-the-badge&logoWidth=30" alt="Bootstrap">
+<img src="https://img.shields.io/badge/-Tailwind CSS-F3F7FA?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge&logoWidth=30" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
+<img src="https://img.shields.io/badge/-Express-F3F7FA?logo=express&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Express">
+<img src="https://img.shields.io/badge/-MongoDB-F3F7FA?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=30" alt="MongoDB">
+<img src="https://img.shields.io/badge/-Firebase-F3F7FA?logo=firebase&logoColor=FFCA28&style=for-the-badge&logoWidth=30" alt="Firebase">
 </p>
 
-### In my bucket list:
+### In my bucket list
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Typescript-FADDC6?logo=typescript&logoColor=3178C6&style=for-the-badge&logoWidth=30" alt="Typescript">
@@ -72,7 +95,9 @@ You can find me here 👇
 
 ![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 
-## 🏆  Accomplishments
+<br>
+
+## 🏆 Accomplishments
 
 ### 👩‍💻 Developer
 
@@ -98,6 +123,12 @@ You can find me here 👇
 - [TCL-35: Weekly Sync 8 - Final Demo and Retro](https://www.youtube.com/watch?v=MIY3c2fh8xo)
 - [TCL-35: Weekly Sync 6 - Demos and Retros](https://www.youtube.com/watch?v=RGufaZFAJA8)
 - Guest on Virtual Coffee podcast (S3/Ep.3) — [July](https://virtualcoffee.io/podcast/0303-ayu-adiati/) 2021
+
+<br> 
+
+![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
+
+<br>
 
 ## 👥 Community Activities
 
@@ -132,6 +163,8 @@ You can find me here 👇
 
 ![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 
+<br>
+
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -149,10 +182,12 @@ You can find me here 👇
 
 ![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 
-## ⚡ Fun Fact About Me
-🗣 I speak four languages — Indonesian, English, Dutch and Japanese.
+<br>
 
-:sparkles: When I'm not coding, you would see me cuddling with my daughter, having my DSLR camera on my hands, or watching a movie.
+## ⚡ Fun Fact About Me
+🗣 I speak four languages — Indonesian, English, Dutch, and Japanese.
+
+:sparkles: When I'm not coding, you would see me cuddling with my daughter, having my DSLR camera in my hands, bullet/scrap journaling, or watching a movie.
 
 ☕ I enjoy my **ICED** Machiatto Latte, whether it's summer or winter!
 
@@ -162,13 +197,19 @@ You can find me here 👇
 
 ![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 
-### ❤ My favorite quote at the moment:
+<br>
+
+**❤ My favorite quote at the moment:**
 > If you fail, never give up because F.A.I.L. means "First Attempt In Learning";
 <br> End is not the end. In fact, E.N.D. means "Effort Never Dies"; 
 <br> If you get no as an answer, remember: N.O. means "Next Opportunity";
 <br><br> **- *A.P.J. Abdul Kalam* -**
 
-### :fire: My favorite GIF at the moment:
+<br>
+
+**:fire: My favorite GIF at the moment:**
+<br>
+<br>
 ![let's go! gif](https://media.giphy.com/media/4GXUa4U05Q0JAM972c/giphy.gif)
 
 <br>
