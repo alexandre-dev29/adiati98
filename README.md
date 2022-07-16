@@ -45,8 +45,6 @@ You can find me here 👇
 
 ![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 
-<br>
-
 ## 💻 Skills
 
 <p align="center">
@@ -98,8 +96,6 @@ You can find me here 👇
 
 ![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 
-<br>
-
 ## 🏆 Accomplishments
 
 ### 👩‍💻 Developer
@@ -130,8 +126,6 @@ You can find me here 👇
 <br> 
 
 ![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
-
-<br>
 
 ## 👥 Community Activities
 
@@ -166,8 +160,6 @@ You can find me here 👇
 
 ![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 
-<br>
-
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -184,8 +176,6 @@ You can find me here 👇
 <br> 
 
 ![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
-
-<br>
 
 ## ⚡ Fun Fact About Me
 🗣 I speak four languages — Indonesian, English, Dutch, and Japanese.
