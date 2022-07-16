@@ -43,7 +43,7 @@ You can find me here 👇
 <img src="https://img.shields.io/badge/-Canva-FB750B?logo=canva&logoColor=00C4CC&style=for-the-badge&logoWidth=30" alt="Canva">
 </p>
 
-### I have worked with:
+### I have also worked with:
 <p align="center">
 <img src="https://img.shields.io/badge/-Bootstrap-F3F7FA?logo=bootstrap&logoColor=7952B3&style=for-the-badge&logoWidth=30" alt="Bootstrap">
 <img src="https://img.shields.io/badge/-Tailwind CSS-F3F7FA?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge&logoWidth=30" alt="Tailwind CSS">
