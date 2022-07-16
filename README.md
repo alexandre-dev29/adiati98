@@ -87,9 +87,12 @@ You can find me here 👇
 
 <br>
 
+### ⭐ Contribution Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/?username=adiati98&count_private=true&theme=tokyonight&showicons=true" alt="GitHub Stats Ayu Adiati">
-</P>
+<img src="https://github-readme-stats.vercel.app/api/?username=adiati98&count_private=true&theme=tokyonight&bg_color=030D6B&title_color=FB750B&text_color=B1B8FF&showicons=true" alt="GitHub Stats Ayu Adiati">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=adiati98&theme=tokyonight&background=030D6B&stroke=B1B8FF&ring=FB750B&fire=FB750B&currStreakNum=77CFFF&sideNums=FB750B&currStreakLabel=77CFFF&sideLabels=FB750B&dates=B1B8FF&date_format=j%20M%5B%20Y%5D""https://git.io/streak-stats" alt="GitHub Streak Ayu Adiati">
+</p>
 
 <br> 
 
