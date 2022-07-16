@@ -22,8 +22,7 @@ You can find me here 👇
 
 <br> 
 
-![horizontal line](https://user-images.githubusercontent.com/45172775/179351503-d7437ea3-36f4-4b05-94f0-a050f8339171.svg)
-
+![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 
 ## 💻 Skills
 
@@ -70,7 +69,7 @@ You can find me here 👇
 
 <br> 
 
-![horizontal line](https://user-images.githubusercontent.com/45172775/179351503-d7437ea3-36f4-4b05-94f0-a050f8339171.svg)
+![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 
 ## 🏆  Accomplishments
 
@@ -131,7 +130,7 @@ You can find me here 👇
 
 <br> 
 
-![horizontal line](https://user-images.githubusercontent.com/45172775/179351503-d7437ea3-36f4-4b05-94f0-a050f8339171.svg)
+![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 
 ## 📰 Latest Blog Posts
 
@@ -148,7 +147,7 @@ You can find me here 👇
 
 <br> 
 
-![horizontal line](https://user-images.githubusercontent.com/45172775/179351503-d7437ea3-36f4-4b05-94f0-a050f8339171.svg)
+![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 
 ## ⚡ Fun Fact About Me
 🗣 I speak four languages — Indonesian, English, Dutch and Japanese.
@@ -161,7 +160,7 @@ You can find me here 👇
 
 <br> 
 
-![horizontal line](https://user-images.githubusercontent.com/45172775/179351503-d7437ea3-36f4-4b05-94f0-a050f8339171.svg)
+![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 
 ### ❤ My favorite quote at the moment:
 > If you fail, never give up because F.A.I.L. means "First Attempt In Learning";
