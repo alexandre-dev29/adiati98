@@ -100,14 +100,13 @@ You can find me here 👇
 
 ## 👥 Community Activities
 
-### [Virtual Coffee](https://virtualcoffee.io/)
+### [Virtual Coffee](https://virtualcoffee.io/members/)
 
 - **Documentation Lead**
 - **VC Advisor**
-- Open source contributor
-- Monthly challenges participant
+- Active member and contributor
 
-### [The Collab Lab](https://the-collab-lab.codes/)
+### [The Collab Lab](https://the-collab-lab.codes/volunteers/)
 
 - **Code of Conduct Responder**
 - **Social Media Committee**
