@@ -33,13 +33,13 @@ I also have a deep passion for collaborations, contributing to open sources, and
 
 You can find me here 👇
 
-<p align="center">
+<div align="center">
 <a href="https://twitter.com/AdiatiAyu"><img src="https://img.shields.io/badge/-Twitter-F3F7FA?logo=twitter&logoColor=1DA1F2&style=for-the-badge&logoWidth=30" alt="Twitter"></a>
 <a href="https://www.polywork.com/adiatiayu"><img src="https://img.shields.io/badge/-Polywork-F3F7FA?logo=polywork&logoColor=543DE0&style=for-the-badge&logoWidth=30" alt="Polywork"></a>
 <a href="https://dev.to/adiatiayu"><img src="https://img.shields.io/badge/-DEV-F3F7FA?logo=dev.to&logoColor=0A0A0A&style=for-the-badge&logoWidth=30" alt="DEV"></a>
 <a href="https://community.codenewbie.org/adiatiayu"><img src="https://img.shields.io/badge/-CodeNewbie-F3F7FA?logo=codenewbie&logoColor=9013FE&style=for-the-badge&logoWidth=30" alt="Codenewbie"></a>
 <a href="https://hashnode.com/@adiatiayu"><img src="https://img.shields.io/badge/-Hashnode-F3F7FA?logo=hashnode&logoColor=2962FF&style=for-the-badge&logoWidth=30" alt="Hashnode"></a>
-</p>
+</div>
 
 <br> 
 
@@ -47,51 +47,53 @@ You can find me here 👇
 
 ## 💻 Skills
 
-<p align="center">
-<img src="https://img.shields.io/badge/-HTML5-05128B?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="HTML5">
-<img src="https://img.shields.io/badge/-CSS3-05128B?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="CSS3">
-<img src="https://img.shields.io/badge/-JavaScript-05128B?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Javascript">
-<img src="https://img.shields.io/badge/-React-05128B?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React">
-<img src="https://img.shields.io/badge/-Git-05128B?logo=git&logoColor=F05032&style=for-the-badge&logoWidth=30" alt="Git">
-<img src="https://img.shields.io/badge/-Markdown-05128B?logo=markdown&logoColor=F3F7FA&style=for-the-badge&logoWidth=30" alt="Markdown">
-<br>
-<img src="https://img.shields.io/badge/-GitHub-FB750B?logo=github&logoColor=181717&style=for-the-badge&logoWidth=30" alt="GitHub">
-<img src="https://img.shields.io/badge/-Visual Studio Code-FB750B?logo=visualstudiocode&logoColor=007ACC&style=for-the-badge&logoWidth=30" alt="Visual Studio Code">
-<img src="https://img.shields.io/badge/-Lighthouse-FB750B?logo=lighthouse&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Lighthouse">
-<img src="https://img.shields.io/badge/-Canva-FB750B?logo=canva&logoColor=00C4CC&style=for-the-badge&logoWidth=30" alt="Canva">
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML5-05128B?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-05128B?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="CSS3">
+  <img src="https://img.shields.io/badge/-JavaScript-05128B?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Javascript">
+  <img src="https://img.shields.io/badge/-React-05128B?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React">
+  <img src="https://img.shields.io/badge/-Git-05128B?logo=git&logoColor=F05032&style=for-the-badge&logoWidth=30" alt="Git">
+  <img src="https://img.shields.io/badge/-Markdown-05128B?logo=markdown&logoColor=F3F7FA&style=for-the-badge&logoWidth=30" alt="Markdown">
+  <br>
+  <img src="https://img.shields.io/badge/-GitHub-FB750B?logo=github&logoColor=181717&style=for-the-badge&logoWidth=30" alt="GitHub">
+  <img src="https://img.shields.io/badge/-Visual Studio Code-FB750B?logo=visualstudiocode&logoColor=007ACC&style=for-the-badge&logoWidth=30" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/-Lighthouse-FB750B?logo=lighthouse&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Lighthouse">
+  <img src="https://img.shields.io/badge/-Canva-FB750B?logo=canva&logoColor=00C4CC&style=for-the-badge&logoWidth=30" alt="Canva">
+</div>
 
 ### I have also worked with
-<p align="center">
-<img src="https://img.shields.io/badge/-Bootstrap-F3F7FA?logo=bootstrap&logoColor=7952B3&style=for-the-badge&logoWidth=30" alt="Bootstrap">
-<img src="https://img.shields.io/badge/-Tailwind CSS-F3F7FA?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge&logoWidth=30" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
-<img src="https://img.shields.io/badge/-Express-F3F7FA?logo=express&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Express">
-<img src="https://img.shields.io/badge/-MongoDB-F3F7FA?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=30" alt="MongoDB">
-<img src="https://img.shields.io/badge/-Firebase-F3F7FA?logo=firebase&logoColor=FFCA28&style=for-the-badge&logoWidth=30" alt="Firebase">
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Bootstrap-F3F7FA?logo=bootstrap&logoColor=7952B3&style=for-the-badge&logoWidth=30" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/-Tailwind CSS-F3F7FA?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge&logoWidth=30" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
+  <img src="https://img.shields.io/badge/-Express-F3F7FA?logo=express&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Express">
+  <img src="https://img.shields.io/badge/-MongoDB-F3F7FA?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=30" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-Firebase-F3F7FA?logo=firebase&logoColor=FFCA28&style=for-the-badge&logoWidth=30" alt="Firebase">
+</div>
 
-### In my bucket list
+### In my learning list
 
-<p align="center">
-<img src="https://img.shields.io/badge/-Typescript-FADDC6?logo=typescript&logoColor=3178C6&style=for-the-badge&logoWidth=30" alt="Typescript">
-<img src="https://img.shields.io/badge/-Sass-FADDC6?logo=sass&logoColor=CC6699&style=for-the-badge&logoWidth=30" alt="Sass">
+<div align="center">
+  <img src="https://img.shields.io/badge/-Typescript-FADDC6?logo=typescript&logoColor=3178C6&style=for-the-badge&logoWidth=30" alt="Typescript">
+  <img src="https://img.shields.io/badge/-Sass-FADDC6?logo=sass&logoColor=CC6699&style=for-the-badge&logoWidth=30" alt="Sass">
   <img src="https://img.shields.io/badge/-Cypress-FADDC6?logo=cypress&logoColor=17202C&style=for-the-badge&logoWidth=30" alt="Cypress">
-<img src="https://img.shields.io/badge/-PostgreSQL-FADDC6?logo=postgresql&logoColor=4169E1&style=for-the-badge&logoWidth=30" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/-Docker-FADDC6?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=30" alt="Docker">
-<img src="https://img.shields.io/badge/-Vue-FADDC6?logo=vue.js&logoColor=4FC08D&style=for-the-badge&logoWidth=30" alt="VueJS">
-<img src="https://img.shields.io/badge/-Eleventy-FADDC6?logo=eleventy&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Eleventy">
-</p>
+  <img src="https://img.shields.io/badge/-PostgreSQL-FADDC6?logo=postgresql&logoColor=4169E1&style=for-the-badge&logoWidth=30" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-Docker-FADDC6?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=30" alt="Docker">
+  <img src="https://img.shields.io/badge/-Vue-FADDC6?logo=vue.js&logoColor=4FC08D&style=for-the-badge&logoWidth=30" alt="VueJS">
+  <img src="https://img.shields.io/badge/-Eleventy-FADDC6?logo=eleventy&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Eleventy">
+</div>
 
-<br>
+<br> 
 
-### ⭐ Contribution Stats
+![horizontal line](https://user-images.githubusercontent.com/45172775/179351770-56e6a087-0758-4921-8a11-85647a92ff33.svg)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/?username=adiati98&count_private=true&bg_color=030D6B&hide_border=true&title_color=FB750B&text_color=B1B8FF&showicons=true""https://github.com/anuraghazra/github-readme-stats" alt="GitHub Stats Ayu Adiati">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=adiati98&background=030D6B&hide_border=true&stroke=B1B8FF&ring=FB750B&fire=FB750B&currStreakNum=77CFFF&sideNums=FB750B&currStreakLabel=77CFFF&sideLabels=FB750B&dates=B1B8FF&date_format=j%20M%5B%20Y%5D""https://git.io/streak-stats" alt="GitHub Streak Ayu Adiati">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiati98&layout=compact&hide=pug, handlebars&card_width=450&custom_title=Ayu Adiati's Most Use Languages&hide_border=true&bg_color=030D6B&title_color=FB750B&text_color=B1B8FF""https://github.com/anuraghazra/github-readme-stats" alt="Top language Ayu Adiati">
-</p>
+## ⭐ Contribution Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=adiati98&count_private=true&bg_color=030D6B&hide_border=true&title_color=FB750B&text_color=B1B8FF&showicons=true""https://github.com/anuraghazra/github-readme-stats" alt="GitHub Stats Ayu Adiati">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=adiati98&background=030D6B&hide_border=true&stroke=B1B8FF&ring=FB750B&fire=FB750B&currStreakNum=77CFFF&sideNums=FB750B&currStreakLabel=77CFFF&sideLabels=FB750B&dates=B1B8FF&date_format=j%20M%5B%20Y%5D""https://git.io/streak-stats" alt="GitHub Streak Ayu Adiati">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiati98&layout=compact&hide=pug, handlebars&card_width=450&custom_title=Ayu Adiati's Most Use Languages&hide_border=true&bg_color=030D6B&title_color=FB750B&text_color=B1B8FF""https://github.com/anuraghazra/github-readme-stats" alt="Top language Ayu Adiati">
+</div>
 
 <br> 
 
@@ -193,20 +195,16 @@ You can find me here 👇
 
 <br>
 
-**❤ My favorite quote at the moment:**
+<div align="center">
+  
 > If you fail, never give up because F.A.I.L. means "First Attempt In Learning";
 <br> End is not the end. In fact, E.N.D. means "Effort Never Dies"; 
 <br> If you get no as an answer, remember: N.O. means "Next Opportunity";
-<br><br> **- *A.P.J. Abdul Kalam* -**
+<br> **- *A.P.J. Abdul Kalam* -**
 
-<br>
-
-**:fire: My favorite GIF at the moment:**
-<br>
-<br>
 ![let's go! gif](https://media.giphy.com/media/4GXUa4U05Q0JAM972c/giphy.gif)
-
-<br>
+  
+</div>
 
 ![Footer](https://user-images.githubusercontent.com/45172775/179351922-cb6ccac8-0740-4b83-a43e-68569875206d.svg)
 
