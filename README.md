@@ -91,7 +91,7 @@ You can find me here 👇
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=adiati98&count_private=true&bg_color=030D6B&hide_border=true&title_color=FB750B&text_color=C7CCFF&show_icons=true&icon_color=25FB88""https://github.com/anuraghazra/github-readme-stats" alt="GitHub Stats Ayu Adiati">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=adiati98&background=030D6B&hide_border=true&stroke=C7CCFF&ring=FB750B&fire=FB750B&currStreakNum=25FB88&sideNums=FB750B&currStreakLabel=25FB88&sideLabels=FB750B&dates=C7CCFF&date_format=j%20M%5B%20Y%5D""https://git.io/streak-stats" alt="GitHub Streak Ayu Adiati">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=adiati98&background=030D6B&hide_border=true&stroke=C7CCFF&ring=FB750B&fire=FB750B&currStreakNum=25FB88&sideNums=FB750B&currStreakLabel=25FB88&sideLabels=25FB88&dates=C7CCFF&date_format=j%20M%5B%20Y%5D""https://git.io/streak-stats" alt="GitHub Streak Ayu Adiati">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiati98&layout=compact&hide=pug, handlebars&card_width=450&custom_title=Ayu Adiati's Most Use Languages&hide_border=true&bg_color=030D6B&title_color=FB750B&text_color=C7CCFF""https://github.com/anuraghazra/github-readme-stats" alt="Top language Ayu Adiati">
 </div>
 
