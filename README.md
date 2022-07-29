@@ -1,6 +1,6 @@
 ![Ayu Adiati Banner](https://user-images.githubusercontent.com/45172775/179356306-9a3522a8-b26d-47b8-bfdf-bd052dbb36ce.svg)
 
-# Hi there! Welcome to my GitHub profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+# Hi, I'm Ayu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 <!--
 ## 🔎 What you will find here
@@ -22,8 +22,6 @@
 - [📰 Latest Blog Posts](#-latest-blog-posts)
 - [⚡ Fun Fact About Me](#-fun-fact-about-me)
 -->
-
-## :woman: About Me
 
 I am a front-end software engineer with a strong interest in building projects that are accessible to everyone.
 
