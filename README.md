@@ -136,7 +136,7 @@ You can find me here 👇
 - **VC Advisor**
 - Active member and contributor
 
-### [The Collab Lab](https://the-collab-lab.codes/volunteers/)
+### [The Collab Lab](https://the-collab-lab.codes/volunteer/)
 
 - **Code of Conduct Responder**
 - **Social Media Committee**
