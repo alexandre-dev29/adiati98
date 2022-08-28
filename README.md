@@ -166,11 +166,11 @@ You can find me here 👇
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- `2022-08-27` | [How To Get Unstuck In Coding With The Power Of Community](https://adiati.com/how-to-get-unstuck-in-coding-with-the-power-of-community)  
 - `2022-08-22` | [Failing Is Not Failure — What I Learned From Failed Interviews](https://adiati.com/failing-is-not-failure-what-i-learned-from-failed-interviews)  
 - `2022-05-03` | [Turn Your Blog Post Into A Virtual Talk](https://adiati.com/turn-your-blog-post-into-a-virtual-talk)  
 - `2022-04-15` | [Guide To Asking Questions About Code](https://adiati.com/guide-to-asking-questions-about-code)  
 - `2022-04-13` | [Tech Is For Everyone. Don&#39;t Let People Tell You Otherwise](https://adiati.com/tech-is-for-everyone-dont-let-people-tell-you-otherwise)  
-- `2022-03-04` | [How To Use GitHub For Project Collaboration — Based on Agile Method](https://adiati.com/how-to-use-github-for-project-collaboration-based-on-agile-method)  
 
 <!-- BLOG-POST-LIST:END -->
 
